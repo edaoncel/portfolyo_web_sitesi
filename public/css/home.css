@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-image: url('../../public/img/home/1.png');
+    background-size: 1530px 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+}
+
+.slogan {
+    font-size: 40px;
+    font-family: Bookman Old Style;
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 8%;
+}
+
+.intro {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-left: 5%;
+  }
+  
+  #changing-word {
+    color: #db5c17;
+  }
+  
+
+@media (max-width: 768px) {
+    .slogan {
+        font-size: 30px;
+        margin-top: 30%;
+        text-align: left;
+        margin-left: 5%;
+    }
+
+    body {
+        background-size: cover;
+    }
+}

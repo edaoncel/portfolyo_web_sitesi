@@ -1,0 +1,71 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.scrollbar {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+h2 {
+    font-family: Bookman Old Style;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Bookman Old Style', serif;
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    text-align:justify;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    
+}
+
+.image-container .left, .image-container .right {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 20%;
+    height: auto;
+}
+
+
+@media (max-width: 768px) {
+    .image-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .image-container .left, .image-container .right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .image-container .left {
+        order: 1;
+    }
+
+    .image-container .right {
+        order: 2;
+    }
+
+    .image-container img {
+        max-width: 20%;
+        height: auto;
+    }
+}
+

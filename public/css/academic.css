@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.scrollbar {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+body {
+    background-image: url('../../public/img/academic/1.png');
+    background-size: 1530px 700px;
+    background-repeat: no-repeat;
+    background-position: center 50px;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Bookman Old Style;
+    text-align: left;
+    margin-left: 5%;
+    color: rgb(0, 0, 0);;
+}
+
+.paragraf-container {
+    margin: 20px left;
+    max-width: 600px;
+}
+
+
+p {
+    margin: 5%;
+    font-size: 18px;
+    text-align:left;
+    font-family: Bookman Old Style;
+    color: rgb(0, 0, 0);
+}
+
+
+@media (max-width: 768px) {
+    body {
+        background-image: none;
+    }
+
+    h1 {
+        font-size: 40px;
+        font-family: Bookman Old Style;
+        text-align: left;
+        margin-top: 15%;
+        color: rgb(0, 0, 0);;
+    }    
+    
+}

@@ -1,0 +1,56 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.scrollbar {
+    height: 100%;
+    overflow-y: scroll;
+}
+
+.paragraf-1 {
+    background-color: rgba(182, 213, 255, 0.875);
+    padding: 40px;
+    border-radius: 50px;
+    margin: 20px auto;
+    max-width: 200px;
+    max-height: 150px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.paragraf-2, .paragraf-3, .paragraf-4 {
+    padding: 40px;
+    border-radius: 50px;
+    margin: 20px auto;
+    max-width: 200px;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.paragraf-2 {
+    background-color: rgba(213, 179, 245, 0.89);
+}
+
+.paragraf-3 {
+    background-color: rgb(226, 229, 151);
+}
+
+.paragraf-4 {
+    background-color: rgba(255, 158, 93, 0.906);
+}
+
+.paragraf {
+    font-size: 22px;
+    text-align: justify;
+    font-family: Bookman Old Style;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
