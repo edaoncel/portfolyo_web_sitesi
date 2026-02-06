@@ -30,6 +30,8 @@ JavaScript: Dinamik içerikler ve kullanıcı etkileşimi.
 
 
 
+https://github.com/user-attachments/assets/d73a8a1f-4ced-460e-a066-333f5f9ba783
+
 
 
 ⚙️ Yerel Çalıştırma
@@ -51,3 +53,4 @@ JavaScript: Dinamik içerikler ve kullanıcı etkileşimi.
 
 
 📧 İletişim: https://q.me-qr.com/i9ph78st
+
