@@ -1,4 +1,4 @@
-📄 Eda Öncel - Profesyonel Portfolyo
+ Eda Öncel - Profesyonel Portfolyo
 
 
 
@@ -6,19 +6,19 @@ Bu proje, profesyonel özgeçmişimi, projelerimi ve yetkinliklerimi modern bir 
 
 
 
-- 📱 Tam Duyarlı (Responsive) Tasarım: Mobil, tablet ve masaüstü cihazlarla mükemmel uyum.
+-  Tam Duyarlı (Responsive) Tasarım: Mobil, tablet ve masaüstü cihazlarla mükemmel uyum.
 
-- 🎨 Modern Arayüz: Temiz, profesyonel ve okunabilirliği yüksek tasarım.
+-  Modern Arayüz: Temiz, profesyonel ve okunabilirliği yüksek tasarım.
 
-- 📂 Proje Galerisi: Önceki çalışmalarımın listelendiği interaktif bölüm.
+-  Proje Galerisi: Önceki çalışmalarımın listelendiği interaktif bölüm.
 
-- 📩 İletişim Formu: Ziyaretçilerin doğrudan ulaşabileceği entegre form alanı.
-
-
+-  İletişim Formu: Ziyaretçilerin doğrudan ulaşabileceği entegre form alanı.
 
 
 
-🛠️ Teknolojiler
+
+
+ Teknolojiler
 
 HTML5 & CSS3: Sayfa yapısı ve özel stil çalışmaları.
 
@@ -26,7 +26,7 @@ JavaScript: Dinamik içerikler ve kullanıcı etkileşimi.
 
 
 
-📺 Proje Tanıtımı & Demo
+Proje Tanıtımı & Demo
 
 
 
